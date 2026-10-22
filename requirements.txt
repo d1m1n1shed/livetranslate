@@ -1,0 +1,12 @@
+PySide6
+mss
+pynput
+pillow
+fugashi
+unidic-lite
+pykakasi
+jamdict
+jamdict-data
+manga-ocr
+# optional online sentence translation
+# anthropic
